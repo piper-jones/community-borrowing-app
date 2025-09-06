@@ -1,13 +1,13 @@
-package com.example.demo;
+package dev.piper_jones.community_app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
+public class CommunityAppApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(CommunityAppApplication.class, args);
 	}
 
 }
